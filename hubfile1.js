@@ -1,4 +1,5 @@
 let x = 1;
 let y = 2;
 let z = x + y;
-console.log("z = "z);
+console.log("I have done the changes");
+console.log(z);
